@@ -1,0 +1,14 @@
+D:\Projects\Visual Studio\AutoShop\bin\Debug\AutoShop.exe
+D:\Projects\Visual Studio\AutoShop\bin\Debug\AutoShop.pdb
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.MainForm.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.Properties.Resources.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.exe
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.pdb
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.AddEditShop.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.AddEditAuto.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.AddEditClient.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.AddStringForm.resources
+D:\Projects\Visual Studio\AutoShop\obj\Debug\AutoShop.SearchClients.resources
